@@ -8,7 +8,7 @@ class Notas extends Controller
 {
     public function create(){
 
-        return view('FormuRaiz');
+        return view('FormuNotas');
 
     }
 
